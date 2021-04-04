@@ -1,0 +1,122 @@
+please enter your phone number? +4915908463607
+is it the number?
+can you please write it in international format&
+'
+good, now we have session files
+please, write name
+let me think
+I always did this with PyCharm, 
+
+Please keep the tab open, so we can monitor if it crashes, I have written you api id and api hash, 
+I have written the ids of the channel, so it should work. How frequent the source channel makes post? we need it instant. If the admins of channel posts, we will see
+shall i test now 
+if you are the admin, yes , please
+lets trz
+it says that the input id is not found, can you please send me channel invite links, so I can take a look
+sure
+can you send me target too, please?
+sure
+
+those are the target and source,
+
+but then we need to set up another target and source on another phone number
+
+okay, no problem, it will be done sir, let me first correct the first one
+
+please, test again
+nothing
+
+is it okay?
+
+seems fine now
+please, test editing too
+
+okay now lets edit the other 2 channels with the other phone
+okay
+
+you have to get api id and api hash for other let me do it quick
+done
+
+okay, lets do it
+
+it asks for 2FA
+
+
+sorry for inconvinience
+
+we need another pair of ids
+fir channels? yes, it is source channel
+my_channel is target channel
+
+no they both work in different phones
+so what you are doing is correct
+so we need api id and api hash of third account, yes?
+no 
+
+it is only 2
+
+we did this first
+source - target
+1285034799 -1376355233
+this one is with this phone
+
+we have done this with this number?
+yes the first one
+
+4915908463607
+
+now we are doing this
+Source - target
+1408408426 - 1285034799
+this one is with this phone
+okay
+491718058125
+
+so you have 2 pairs of channel in one account?
+
+
+why 3?!
+it should be just 2 
+
+it is from 1 to 2   anonim.py is for 1st account 1st phone
+and from 2 to 3    anonim2.py is for 2nd account 2nd phone
+
+no
+
+the main source is here
+1408408426  
+this send to 1285034799
+
+those are common
+
+
+then 1285034799 send to 1376355233
+we did this already with 1
+
+
+
+
+1st phone number: 1st ---- 2nd (channels) so we should do it? yes
+Source - target
+1408408426 - 1285034799
+491718058125 //we have to do this, okay, there is no need anonim3 correct
+
+2nd phone number: 2nd ---- 3rd ? we started by this first so this is done
+correct
+why?
+if you delete, we lose what we did here
+
+it is just a session file 
+
+ok
+
+we run the code on different IP addresses simultaneously,  so it crashed
+
+
+
+I have to figure out why it crashes ok\why not update the anonim too?which part of anonim? use the new files that you just run. There is no need, ok. I will say something after it works
+
+
+sir, I don't know why it doesn't work. I am sorry, I took a lot of your time, if you find anyone who can do it, hire him
+
+i will work on deploying the scripts wih my own accounts, if i find solution, i will let you know. but right now I don't want to waste your time, I am very  okay try to think of a solution, i will try something up till then
