@@ -46,7 +46,7 @@ async def incoming(event: telethon.events.newmessage.NewMessage.Event):
             messages[str(channel)][str(i)][str(event.message.id)] = str(message_out.id)
 
 
-    with open('messages.json', 'w', encoding='UTF-8') as file:
+    with open('messages2.json', 'w', encoding='UTF-8') as file:
         json.dump(messages, file)
 
 
