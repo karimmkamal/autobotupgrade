@@ -7,8 +7,8 @@ api_id = 3388504
 api_hash = 'fcb26adccf95496b5b258a3f51f6ab59'
 client = TelegramClient('unfban', api_id, api_hash)
 
-source_target = {1285034799: [-1001376355233],
-                 1316654669: [-1001474202691],
+source_target = {-1001285034799: [-1001376355233],
+                 -1001316654669: [-1001474202691],
                  }
 
 
