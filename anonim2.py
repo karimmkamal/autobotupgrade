@@ -18,7 +18,7 @@ with open('messages2.json', encoding='UTF-8') as json_file:
 async def incoming(event: telethon.events.newmessage.NewMessage.Event):
     global messages
     channel = event.chat_id
-
+    print(event.message.id)
     if str(channel) not in messages:
         messages[str(channel)] = {}
         for i in source_target[channel]:
