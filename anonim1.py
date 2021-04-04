@@ -6,10 +6,15 @@ import telethon
 api_id = 3388504
 api_hash = 'fcb26adccf95496b5b258a3f51f6ab59'
 client = TelegramClient('unfban', api_id, api_hash)
-
-source_target = {-1001285034799: [-1001376355233],
-                 -1001316654669: [-1001474202691],
+                    # crypto winner - crypto auto signals
+source_target = {                     # this is not your channel, right?yes
+                 -1001316654669: [-1001474202691],   # source_target = {-1001408408426: [-1001285034799]} wait because it will be on the other anonim not this oneç yes
                  }
+
+#AlphaTradeZone® Premium | 1316654669
+#CryptoAutoZignals - Premium | 1376355233
+#Crypto winner | 1285034799
+#CryptoAlpha - Premium | 1474202691
 
 
 with open('messages.json', encoding='UTF-8') as json_file:
