@@ -10,7 +10,7 @@ client = TelegramClient('unfban2', api_id, api_hash)
 source_target = {1408408426: [-1001285034799]}
 
 
-with open('messages.json', encoding='UTF-8') as json_file:
+with open('messages2.json', encoding='UTF-8') as json_file:
     messages = json.load(json_file)
 
 
